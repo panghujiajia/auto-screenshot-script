@@ -1,0 +1,17 @@
+{
+  "name": "autoscreenshots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-xlsx": "^0.21.0",
+    "officegen": "^0.6.5",
+    "prettier": "^2.7.1",
+    "puppeteer": "^15.0.1"
+  }
+}
